@@ -1,4 +1,4 @@
-# Social-Network-API
+# Social-Network-API :seedling:
 
 This aplication was built API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
